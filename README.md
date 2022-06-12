@@ -15,7 +15,9 @@
 
 하반기 전까지 2~3개월 동안 중요한 것들 먼저
 
-## 주제
+</br>
+
+## 📌주제
 
 - 자료구조
     - Array vs Linked List
@@ -86,16 +88,20 @@
 - 디자인패턴
 - 알고리즘
 
-## 면접 대비 주제 참고자료
+</br>
 
-### CS
+## 📌면접 대비 주제 참고자료
 
-[https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+### 🔰CS
 
-[https://github.com/gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+- JaeYeopHan-Tech Interview
+    - [https://github.com/JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
-[👨🏻‍💻 Tech Interview](https://gyoogle.dev/blog/)
+- gyoogle-Tech Interview 
+    - [https://github.com/gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+    - [👨🏻‍💻 Tech Interview](https://gyoogle.dev/blog/)
 
-### 자바
+### 🔰자바
 
-[https://github.com/Java-Crew/java-study](https://github.com/Java-Crew/java-study)
+- JavaCrew-java
+    - [https://github.com/Java-Crew/java-study](https://github.com/Java-Crew/java-study)
