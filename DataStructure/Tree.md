@@ -13,17 +13,25 @@
 
 왼쪽 자식 노드 포함 아래의 모든 노드의 데이터가 현재 노드의 데이터보다 작고, 오른쪽 자식 노드 아래의 모든 노드의 데이터가 현재 노드의 데이터보다 클 경우
 
+![tree_bst](https://user-images.githubusercontent.com/55528172/173599155-fa701445-3f1d-433e-90ec-7ca1633c1010.png)
+
 ## Full Binary Tree (정 이진 트리)
 
 모든 노드들이 0개 혹은 2개의 자식만 가질 경우
+
+![tree_full](https://user-images.githubusercontent.com/55528172/173599151-049cfbab-3d4f-4a80-87b4-53743aec1041.png)
 
 ## Complete Binary Tree (완전 이진 트리)
 
 마지막 레벨을 제외한 모든 서브트리의 레벨이 같고, 마지막 레벨은 왼쪽부터 채워진 경우
 
+![tree_complete](https://user-images.githubusercontent.com/55528172/173599150-9f7c2608-14bd-4943-90c6-ba8b034c45a8.png)
+
 ## Perfect Binary Tree (포화 이진 트리)
 
 마지막 레벨을 제외한 모든 노드가 2개의 자식 노드를가져서 피라미드 모양을 만드는 경우
+
+![tree_perfect](https://user-images.githubusercontent.com/55528172/173599146-980349cd-6d7b-4fad-8448-54655a491db2.png)
 
 ## Binary Tree Traversal
 
