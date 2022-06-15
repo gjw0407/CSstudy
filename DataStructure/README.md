@@ -10,19 +10,18 @@
 - Binary Heap
 - Red Black Tree
     - 정의
+    - 조건
     - 특징
     - 삽입
-    - 삭제
 - Hash Table
     - Hash Function
     - Resolve Collision
         - Open Addressing
         - Separate Chaining
-    - Resize
 - Graph
-    - Graph 용어정리
-    - Graph 구현
-    - Graph 탐색
+    - 용어정리
+    - 구현
+    - 탐색
     - Minimum Spanning Tree
         - Kruskal algorithm
         - Prim algorithm
