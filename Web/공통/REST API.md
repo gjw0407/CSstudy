@@ -9,6 +9,7 @@
 
 - URI - resource (정보의 자원)
 - HTTP Method - verb (자원에 대한 행위)
+- Representations (표현)
 
 ### 특징
 
