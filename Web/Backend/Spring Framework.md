@@ -55,3 +55,33 @@
 - 객체의 제어권이 개발자에게서 스프링으로 넘어갔다.
 - 각 객체의 생성, 소멸과 같은 라이프 사이클을 관리하며 필요한 객체를 컨테이너로부터 얻어올 수 있다.
 - Component Scan으로 bean을 `@Component`가 붙은 클래스들의 객체를 스프링 빈으로 컨테이너에 넣고 관리
+
+
+## Spring 7 Modules
+
+아래 모듈들은 엔터프라이즈 애플리케이션을 개발하기 위해 다른 플랫폼을 제공한다.
+
+![spring-modules](https://user-images.githubusercontent.com/55528172/174765998-2b9fd445-5c18-4584-8efd-50b71b98a25b.png)
+
+- Spring Core
+    - IoC 컨테이너를 제공하는 spring framework이 핵심 컴포넌트
+    - BeanFactory은 빈 객체 관리, 의존성 주입 등의 역할을 하는 컨테이너이다.
+- Spring Context
+    - Core 모듈을 기반으로 하며 추가적인 기능들과 더 쉬운 개발이 가능하도록 지원한다.
+        - Email, JNDI접근, EJB 연계등과 같은 다수의 엔터프라이즈 서비스 제공
+    - Spring을 container로 만든 것이 Core 모듈의 BeanFactory이고, Spring을 framework로 만든 것이 Context 모듈이다.
+- Spring AOP
+    - 프로그램을 aspect(관점)이나 concern(관심사)로 나눈다.
+- Spring ORM
+    - Hibernate, Apache Ibatis 등의 ORM 프레임워크와의 매우 우수한 통합 환경 제공
+    - 데이터베이스를 접근, 조작할 수 있는 API를 제공한다.
+- Spring Web MVC
+    - web application을 만들기 위한 MVC 구조
+    - JSP, Velocity, Excel, PDF 같은 다양한 UI 기술들을 사용하기 위한 API 제공
+    - form controller: SimpleFormController.class, AbstractWizardFormController.class
+- Spring Web Flow
+    - Spring Web MVC 모듈의 확장
+    - web application의 다른 페이지들간의 workflow를 관리한다.
+- Spring DAO(Data Access Object)
+    - Spring JDBC DAO 추상 레이어는 다른 데이터베이스 vendor들의 예외 핸들링과 오류 메세지를 관리하는 예외 계층을 제공한다.
+    - 일반적으로 많이 사용해왔던 JDBC 기반 DAO 개발을 적은 코드와 쉽고 일관된 방법으로 개발하는 것이 가능하다.
