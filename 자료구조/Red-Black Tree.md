@@ -29,7 +29,8 @@ O(logn)
 
 모든 NIL 리프에 대한 포인터가 이 노드를 가리키도록 하면 된다 → 공간도 절약 & 경계 조건을 다루기도 편리
 
-![Untitled](Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/61227459/175044357-4282c2dc-2fda-444c-9b1c-5b397d1564c5.png)
+
 
 # Restructuring vs Recoloring
 
@@ -39,7 +40,7 @@ Uncle node(부모 노드와 같은 층)의 색깔에 따라 갈림
 - Restructuring : Uncle(NIL 포함)이 검정
 - Recoloring : Uncle이 빨강
 
-![Untitled](Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/61227459/175044264-c5d4a1a4-c49e-47a3-866d-d96938ec9181.png)
 
 ## Restructuring
 
