@@ -8,7 +8,7 @@
 - key 값에 해시함수를 적용해 index를 생성 → index 활용해 값을 저장 & 검색
 - 버킷(슬롯) : 실제 값이 저장되는 장소
 
-![Untitled](Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/61227459/175044438-200c7441-4fd3-4463-98d4-208358f96284.png)
 
 ## Hash Function
 
