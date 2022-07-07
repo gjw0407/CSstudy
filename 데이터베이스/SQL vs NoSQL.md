@@ -17,7 +17,8 @@ SQL을 사용하여 RDBMS에서 데이터를 저장, 수정, 삭제, 검색
 
 또한, 데이터의 중복을 피하기 위해 ‘관계’를 이용한다. 
 
-![Untitled](SQL%20vs%20NoSQL%2009f7d9196c254866b27abf65e8248637/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/55426397/177663064-457fa3fa-c03b-4382-ae11-73f78e4e48f7.png)
+
 
 하나의 테이블에서 중복 없이 하나의 데이터만을 관리하기 때문에 다른 테이블에서 부정확한 데이터를 다룰 위험이 없어지는 장점이 있다.
 
