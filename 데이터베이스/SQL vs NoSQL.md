@@ -95,3 +95,4 @@ SQL은 정해진 스키마를 따르지 않으면 데이터 추가가 불가능�
 # SQL과 NoSQL 차이점 정리
 
 [Untitled](https://www.notion.so/f992868f84f04f18a02fe94a89352965)
+
