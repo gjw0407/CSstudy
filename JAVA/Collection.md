@@ -12,7 +12,8 @@
 
 **Iterator** 인터페이스를 상속한 **Collection**은 가장 기본이 되는 인터페이스로 **add(), size(), iterator()** 메소드를 가지고 있다.
 
-![Untitled](Collection%20faf5aacc9b69474e8347cef05a0d8b7b/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/55426397/180901004-0b1e4827-1a20-481b-bbcc-e0228c00eaa1.png)
+
 
 ### P.S Collections란?
 
@@ -20,7 +21,8 @@ Collection인터페이스와 달리 Java 1.2이상부터 Collections라는 sta
 
 ### Collections 클래스의 메소드
 
-![Untitled](Collection%20faf5aacc9b69474e8347cef05a0d8b7b/Untitled%201.png)
+![Untitled 1](https://user-images.githubusercontent.com/55426397/180901013-267dea70-ad77-4ee1-a439-35982ca7ee75.png)
+
 
 자바에 **Collection** **자료구조는 크게 List , Set , Map 3가지로 나눌 수 있다.**
 
@@ -30,7 +32,7 @@ Collection인터페이스와 달리 Java 1.2이상부터 Collections라는 sta
 
 Map은 기본적으로 Key, Value 라는 다른 구조를 가지기 때문에, 독립적인 인터페이스가 구현되어 있다.
 
-![Untitled](Collection%20faf5aacc9b69474e8347cef05a0d8b7b/Untitled%202.png)
+![Untitled 2](https://user-images.githubusercontent.com/55426397/180901017-ab974d69-8155-4ef0-90fe-72332a017301.png)
 
 ## 2. Collection 하위 인터페이스
 
